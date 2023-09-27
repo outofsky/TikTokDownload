@@ -40,7 +40,7 @@
 > 
 > 发行版下载 每次Commits之后会重新打包
 
-<details><summary> ⚙ Windows Terminal 设置（必看） </summary>
+<details><summary> ⚙ Windows Terminal 设置（必看）（win10不改会报错） </summary>
 
 ![wt配置](https://github.com/Johnserf-Seed/TikTokDownload/assets/40727745/997b6fc2-586e-4268-bee8-43bb8d68622c)
 
